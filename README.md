@@ -1,16 +1,24 @@
-# mailme
+# Mail Me
 
-An android app from which you send email  to your customers
+Mail Me is an android demo app which show how we can send mail to anyone using EmailJs.
+
+## Authors
+
+- [@naveenyadav530](https://www.github.com/naveenyadav530)
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/naveenyadav530/templates/blob/main/MailMe/WhatsApp%20Image%202022-01-14%20at%202.10.32%20PM.jpeg?raw=true/468x300?text=App+Screenshot+Here)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run and use Mail-Me make changes to mail_page.dart,
+### Uncomment the given code 
+* // setState(() {
+* //   progress = true;
+* // });
+* // _sendEmail();
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
